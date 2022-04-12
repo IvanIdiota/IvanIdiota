@@ -1,0 +1,4 @@
+- Salve, eu sou Ivan
+- Meu contato é silveira.ivan@escola.pr.gov.br
+- Tô interessado em programação
+- Espero aprender um pouco de programação aqui
